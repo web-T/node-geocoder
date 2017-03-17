@@ -1,6 +1,6 @@
 {
   "name": "node-geocoder",
-  "version": "3.16.0",
+  "version": "3.16.1",
   "description": "Node Geocoder, node geocoding library, supports google maps, mapquest, open street map, tom tom, promise",
   "main": "index.js",
   "scripts": {
@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/nchaulet/node-geocoder.git"
+    "url": "https://github.com/web-T/node-geocoder.git"
   },
   "keywords": [
     "geocoder",
@@ -26,7 +26,7 @@
   "author": "nchaulet",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/nchaulet/node-geocoder/issues"
+    "url": "https://github.com/web-T/node-geocoder/issues"
   },
   "dependencies": {
     "bluebird": "^3.4.6",
